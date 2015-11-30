@@ -14,6 +14,12 @@
     "cheerio": "^0.19.0",
     "async": "^1.5.0",
     "iconv": "^2.1.11",
-    "machine_learning": "0.0.8"
+    "machine_learning": "0.0.8",
+    "bayes-classifier": "0.0.2",
+    "nbayes": "^2.0.3",
+    "bayes": "0.0.4",
+    "svm": "^0.1.1",
+    "random-forest-classifier": "^0.6.0",
+    "forestjs": "^1.0.0"
   }
 }
